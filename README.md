@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Jun's github stats](https://github-readme-stats.vercel.app/api?username=J-bbk8105&count_private=true&show_icons=true&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **bbk8105/bbk8105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
